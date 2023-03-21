@@ -1,13 +1,13 @@
 table{
     border: solid 2px;
     padding: auto;
-    width: 50%;
+    width: 30%;
     border-collapse: collapse;
     
 }
 td{
     border: solid 2px;
-    padding: 10px;
+    padding: 20px;
     text-align: center;
 }
 tr{
@@ -23,3 +23,4 @@ tr{
     height: 75px;
     padding: 1px;
 }
+
