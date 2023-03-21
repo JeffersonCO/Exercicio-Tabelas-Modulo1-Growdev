@@ -1,14 +1,25 @@
 table{
     border: solid 2px;
     padding: auto;
-    width: 25%;
+    width: 50%;
     border-collapse: collapse;
+    
 }
 td{
     border: solid 2px;
-    padding: 20px;
+    padding: 10px;
+    text-align: center;
 }
 tr{
+    text-align: center;
     border: solid 2px;
-    padding: 15px;
+    padding: 10px;
+}
+.td1{
+    height: 150px;
+    padding: 1px;
+}
+.td2{
+    height: 75px;
+    padding: 1px;
 }
